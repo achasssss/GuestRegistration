@@ -1,0 +1,11 @@
+D:\.netlearning\guestregistration\guestregistration\obj\Debug\guestregistration.csproj.AssemblyReference.cache
+D:\.netlearning\guestregistration\guestregistration\obj\Debug\guestregistration.csproj.SuggestedBindingRedirects.cache
+D:\.netlearning\guestregistration\guestregistration\obj\Debug\guestregistration.Form1.resources
+D:\.netlearning\guestregistration\guestregistration\obj\Debug\guestregistration.Properties.Resources.resources
+D:\.netlearning\guestregistration\guestregistration\obj\Debug\guestregistration.csproj.GenerateResource.cache
+D:\.netlearning\guestregistration\guestregistration\obj\Debug\guestregistration.csproj.CoreCompileInputs.cache
+D:\.netlearning\guestregistration\guestregistration\bin\Debug\guestregistration.exe.config
+D:\.netlearning\guestregistration\guestregistration\bin\Debug\guestregistration.exe
+D:\.netlearning\guestregistration\guestregistration\bin\Debug\guestregistration.pdb
+D:\.netlearning\guestregistration\guestregistration\obj\Debug\guestregistration.exe
+D:\.netlearning\guestregistration\guestregistration\obj\Debug\guestregistration.pdb
